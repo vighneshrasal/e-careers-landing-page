@@ -49,3 +49,23 @@
 .font-green{
     color: rgba(117,185,36,255);
 }
+
+.tertiary-blue{
+    background-color: rgba(54,148,235,255);
+}
+
+.font-blue{
+    color: rgba(54,148,235,255);
+}
+
+.border{
+    /* border: 1px solid black; */
+}
+
+.padding{
+    padding: 2rem;
+}
+
+.box-shadow{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
